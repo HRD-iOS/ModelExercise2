@@ -18,7 +18,7 @@
     [super viewDidLoad];
    
     _labelName.text = _p.getName;
-    _lableAge.text = [NSString stringWithFormat:@"%d",_p.getAge];//////
+    _lableAge.text = [NSString stringWithFormat:@"%d",_p.getAge];
  }
 
 - (void)didReceiveMemoryWarning {
