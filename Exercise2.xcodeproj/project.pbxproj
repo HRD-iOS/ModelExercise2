@@ -48,6 +48,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9A427A0B1BF1F333007BFEAB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
 		9A89CC021BEC8B95003EF78A = {
 			isa = PBXGroup;
 			children = (
@@ -67,6 +74,7 @@
 		9A89CC0D1BEC8B95003EF78A /* Exercise2 */ = {
 			isa = PBXGroup;
 			children = (
+				9A427A0B1BF1F333007BFEAB /* Model */,
 				9A89CC3B1BEC9FE0003EF78A /* PersonDetail.m */,
 				9A89CC3A1BEC9FE0003EF78A /* PersonDetail.h */,
 				9A89CC281BEC8C00003EF78A /* Person.h */,
@@ -316,6 +324,7 @@
 				9A89CC241BEC8B95003EF78A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
